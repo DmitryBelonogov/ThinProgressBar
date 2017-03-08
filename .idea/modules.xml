@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ThinProgressBar.iml" filepath="$PROJECT_DIR$/ThinProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinprogressbar/thinprogressbar.iml" filepath="$PROJECT_DIR$/thinprogressbar/thinprogressbar.iml" />
+    </modules>
+  </component>
+</project>
