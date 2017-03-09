@@ -54,7 +54,8 @@ public class ThinProgressBar extends RelativeLayout {
     }
 
     private void setupView() {
-        setGravity(Gravity.START);
+        setGravity(Gravity.CENTER_VERTICAL);
+        setLayoutParams(new LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
 
         createProgressView();
         createHintView();

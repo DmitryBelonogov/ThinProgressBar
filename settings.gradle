@@ -1,1 +1,1 @@
-include ':thinprogressbar'
+include ':thinprogressbar', ':demo'

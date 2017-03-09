@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ThinProgressBar.iml" filepath="$PROJECT_DIR$/ThinProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinprogressbar/thinprogressbar.iml" filepath="$PROJECT_DIR$/thinprogressbar/thinprogressbar.iml" />
     </modules>
   </component>
